@@ -29,7 +29,7 @@ diffusion-based restoration is promising but a data-demanding direction, and tha
 further development with larger datasets and refined alignment strategies could
 bring this approach closer to the current SOTA.
 
-The used datasets can be downloaded from this link https://drive.google.com/drive/folders/15h_J-2K6MsW7g01RqP2DFyH4GUCCIwKw?usp=sharing
+The used datasets can be downloaded from this link [link](https://drive.google.com/drive/folders/15h_J-2K6MsW7g01RqP2DFyH4GUCCIwKw?usp=sharing)
 RSVD    - Desnowing
 SPAC    - Deraining
 REVIDE  - Dehazing

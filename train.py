@@ -38,9 +38,9 @@ save_every      = 100
 sample_steps    = 10
 diffusion_steps = 1000
 
-checkpoint_dir      = '/content/drive/MyDrive/MasterDataset/checkpoints'
-project_name        = 'ALL-IN-ONE-Class_1_2_test'
-run_checkpoint_path = os.path.join(checkpoint_dir, project_name)
+checkpoint_dir      = 'checkpoints'
+model_name          = 'ARCNet'
+run_checkpoint_path = os.path.join(checkpoint_dir, model_name)
 
 #  Initialise model 
 model = ARCNet(crop_size, num_images, diffusion_steps).to(device)
