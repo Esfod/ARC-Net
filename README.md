@@ -29,10 +29,13 @@ diffusion-based restoration is promising but a data-demanding direction, and tha
 further development with larger datasets and refined alignment strategies could
 bring this approach closer to the current SOTA.
 
-The used datasets can be downloaded from this link https://drive.google.com/drive/folders/15h_J-2K6MsW7g01RqP2DFyH4GUCCIwKw?usp=sharing
 
+The used datasets can be downloaded from this [link] (https://drive.google.com/drive/folders/15h_J-2K6MsW7g01RqP2DFyH4GUCCIwKw?usp=sharing)
 RSVD - Desnowing | SPAC - Deraining | REVIDE - Dehazing
+
 
 To train add datasets in /dataset and run **train.py**
 
 The required libraries can be accessed in **requirements.txt**
+
+The weights of my model and the SOTAs can be accessed through this [link](https://drive.google.com/drive/folders/1CO5mwZI17bh08OFXGNVZYnmIyL7aSRh8?usp=sharing)
