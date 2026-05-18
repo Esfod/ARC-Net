@@ -36,4 +36,6 @@ REVIDE  - Dehazing
 
 To train add datasets in /dataset and run **train.py**
 
-The required libraries can be accessed in requirements.txt
+The required libraries can be accessed in **requirements.txt**
+
+The weights of my model and the SOTAs can be accessed through this [link](https://drive.google.com/drive/folders/1CO5mwZI17bh08OFXGNVZYnmIyL7aSRh8?usp=sharing)
